@@ -1,4 +1,6 @@
 website-capture
 ===============
 
-website capture
+website capture using phantomjs
+
+
